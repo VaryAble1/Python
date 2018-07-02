@@ -1,6 +1,8 @@
 # Python
 Python language
 
+--------------------------------------------
+
 Course: CS50
 
 Department: Computer Science
